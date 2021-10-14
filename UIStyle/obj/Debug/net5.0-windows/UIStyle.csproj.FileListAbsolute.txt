@@ -1,0 +1,17 @@
+E:\Materi Kuliah\Semester 3\Pemrograman\Praktikum\UIStyle\UIStyle\bin\Debug\net5.0-windows\UIStyle.exe
+E:\Materi Kuliah\Semester 3\Pemrograman\Praktikum\UIStyle\UIStyle\bin\Debug\net5.0-windows\UIStyle.deps.json
+E:\Materi Kuliah\Semester 3\Pemrograman\Praktikum\UIStyle\UIStyle\bin\Debug\net5.0-windows\UIStyle.runtimeconfig.json
+E:\Materi Kuliah\Semester 3\Pemrograman\Praktikum\UIStyle\UIStyle\bin\Debug\net5.0-windows\UIStyle.runtimeconfig.dev.json
+E:\Materi Kuliah\Semester 3\Pemrograman\Praktikum\UIStyle\UIStyle\bin\Debug\net5.0-windows\UIStyle.dll
+E:\Materi Kuliah\Semester 3\Pemrograman\Praktikum\UIStyle\UIStyle\bin\Debug\net5.0-windows\ref\UIStyle.dll
+E:\Materi Kuliah\Semester 3\Pemrograman\Praktikum\UIStyle\UIStyle\bin\Debug\net5.0-windows\UIStyle.pdb
+E:\Materi Kuliah\Semester 3\Pemrograman\Praktikum\UIStyle\UIStyle\obj\Debug\net5.0-windows\UIStyle.Form1.resources
+E:\Materi Kuliah\Semester 3\Pemrograman\Praktikum\UIStyle\UIStyle\obj\Debug\net5.0-windows\UIStyle.csproj.GenerateResource.cache
+E:\Materi Kuliah\Semester 3\Pemrograman\Praktikum\UIStyle\UIStyle\obj\Debug\net5.0-windows\UIStyle.GeneratedMSBuildEditorConfig.editorconfig
+E:\Materi Kuliah\Semester 3\Pemrograman\Praktikum\UIStyle\UIStyle\obj\Debug\net5.0-windows\UIStyle.AssemblyInfoInputs.cache
+E:\Materi Kuliah\Semester 3\Pemrograman\Praktikum\UIStyle\UIStyle\obj\Debug\net5.0-windows\UIStyle.AssemblyInfo.cs
+E:\Materi Kuliah\Semester 3\Pemrograman\Praktikum\UIStyle\UIStyle\obj\Debug\net5.0-windows\UIStyle.csproj.CoreCompileInputs.cache
+E:\Materi Kuliah\Semester 3\Pemrograman\Praktikum\UIStyle\UIStyle\obj\Debug\net5.0-windows\UIStyle.dll
+E:\Materi Kuliah\Semester 3\Pemrograman\Praktikum\UIStyle\UIStyle\obj\Debug\net5.0-windows\ref\UIStyle.dll
+E:\Materi Kuliah\Semester 3\Pemrograman\Praktikum\UIStyle\UIStyle\obj\Debug\net5.0-windows\UIStyle.pdb
+E:\Materi Kuliah\Semester 3\Pemrograman\Praktikum\UIStyle\UIStyle\obj\Debug\net5.0-windows\UIStyle.genruntimeconfig.cache
